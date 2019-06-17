@@ -1,0 +1,16 @@
+#header {
+    position: absolute;
+    color: blue;
+    top:0;
+    left: 0;
+}
+
+#page-header {
+    font-size: 32px;
+    color: blueviolet;
+
+}
+
+p {
+    font-size: 12px;
+}
