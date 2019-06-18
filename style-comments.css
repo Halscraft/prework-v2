@@ -7,14 +7,14 @@
 
 /* Odnośnik do id page-header */
 #page-header {
-    font-size: 32px;
+    font-size: 36px;
     color: blueviolet;
 
 }
 
 /* Style do wszystkich p */
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 /* Style do klasy w głównej części witryny */
@@ -22,3 +22,8 @@ p {
     color: darkgreen;
 }
 
+/* Klasa pogrubiająca dla paragrafów */
+p.bold {
+    text-decoration: underline;
+    font-weight: bold;
+}
