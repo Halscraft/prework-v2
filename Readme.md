@@ -5,4 +5,7 @@ Aktualizcja:
 Dodanie komentarzy do pliku css i podmiana pliku. 
 Dodanie dwóch grafik do katalogu z witryną.
 
+Aktualizacja:
+Zastosowania styli z selektorami.
+
 M.
