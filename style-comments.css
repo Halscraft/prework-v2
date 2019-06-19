@@ -27,3 +27,19 @@ p.bold {
     text-decoration: underline;
     font-weight: bold;
 }
+
+/*Child selector*/
+#header > p {
+    color: violet;
+}
+
+.bold > p {
+    color: aqua;
+}
+
+/*Selektor wybierający pierwszy tag występujący po określonym tagu wewnątrz danej klasy/id */
+.article h2 + p {
+    font-size: 10px;
+    color: grey;
+    text-decoration: underline;
+}
